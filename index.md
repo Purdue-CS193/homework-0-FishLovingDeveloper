@@ -3,5 +3,5 @@
 ### Things I like ### 
 - Mr. Colwill 
 - Mr. Kim 
+- Using the terminal in front of non terminal users 
 - Does anything else matter?
-- Using the terminal in front of non terminal users
